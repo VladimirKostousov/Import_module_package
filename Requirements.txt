@@ -1,0 +1,2 @@
+pyjokes~=0.6.0
+datetime~=5.2
